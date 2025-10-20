@@ -50,6 +50,12 @@ https://github.com/user-attachments/assets/bd7d650b-9c57-4ec6-ac7f-7972262d6e04
  > 실제 공부 시간, 전체 학습 중 집중한 시간, 수면 시간의 비율을 통계 그래프로 시각화하여 제공. 공부 데이터 바탕 개인 맞춤형 AI 피드백 제공
 <br />
 
+## 👤 팀 소개
+|       유민경       |       박유정        |      양규리        |       오지연       |       이하늘       |  
+| :-----------------: | :-----------------: | :----------------: | :----------------: | :----------------: |
+| [<img width="160px" src="https://github.com/mk020.png">](https://github.com/mk020) | [<img width="160px" src="https://github.com/qkrdbwjd.png">](https://github.com/qkrdbwjd) | [<img width="160px" src="https://github.com/ygreee0320.png">](https://github.com/ygreee0320) | [<img width="160px" src="https://github.com/ninano05.png">](https://github.com/ninano05) | [<img width="160px" src="https://github.com/twosky0202.png">](https://github.com/twosky0202) |
+| [@mk020](https://github.com/mk020) | [@qkrdbwjd](https://github.com/qkrdbwjd) | [@ygreee0320](https://github.com/ygreee0320) | [@ninano05](https://github.com/ninano05) | [@twosky0202](https://github.com/twosky0202) |
+<br />
 
  ## :computer: Tech Stack
 - Client: <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/mediapipe-0097A7.svg?style=flat-square&logo=mediapipe&logoColor=white">
@@ -59,6 +65,7 @@ https://github.com/user-attachments/assets/bd7d650b-9c57-4ec6-ac7f-7972262d6e04
 - Deploy: <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
 - Storage: <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
 <br />
+
 
 ## :hammer: System Architecture
 <img src="https://github.com/user-attachments/assets/021a4418-26e7-4f69-961b-d67a4a218125" width=760 />
